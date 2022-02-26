@@ -1,4 +1,35 @@
-body {background-color:tan;}
-h1{color:green;}
+body{
 
+  background-color:black;
+  font-family: Arial;
 
+}
+
+h1{
+
+  color:gray;
+
+}
+
+#mybox{
+
+  border-radius: 10%;
+  background-color: white;
+  width: 400px;
+  height: 350px;
+  padding: 20px;
+  margin: 20px;
+
+}
+
+#innertext{
+
+  padding-left: 60px;
+
+}
+
+#print{
+
+  padding-left: 60px;
+
+}
